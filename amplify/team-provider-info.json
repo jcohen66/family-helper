@@ -13,7 +13,13 @@
     },
     "categories": {
       "auth": {
-        "familyhelper2e5826562e582656": {}
+        "familyhelper2e5826562e582656": {},
+        "familyhelper8749f054": {
+          "userPoolId": "us-east-1_lQ5l5ZT3U",
+          "userPoolName": "amplify-pool",
+          "webClientId": "1ms0iel4dq7rs5k8hd9l8qfmk",
+          "nativeClientId": "1ms0iel4dq7rs5k8hd9l8qfmk"
+        }
       }
     }
   }
