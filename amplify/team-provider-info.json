@@ -1,26 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-familyhelper-dev-184231-authRole",
-      "UnauthRoleArn": "arn:aws:iam::784225982183:role/amplify-familyhelper-dev-184231-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::784225982183:role/amplify-familyhelper-dev-184231-authRole",
+      "AuthRoleName": "amplify-familyhelper-dev-145537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::784225982183:role/amplify-familyhelper-dev-145537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::784225982183:role/amplify-familyhelper-dev-145537-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-familyhelper-dev-184231-deployment",
-      "UnauthRoleName": "amplify-familyhelper-dev-184231-unauthRole",
-      "StackName": "amplify-familyhelper-dev-184231",
-      "StackId": "arn:aws:cloudformation:us-east-1:784225982183:stack/amplify-familyhelper-dev-184231/55f6d870-41da-11ed-b19d-123bd7e35503",
-      "AmplifyAppId": "d26dpiuyzs1hca"
-    },
-    "categories": {
-      "auth": {
-        "familyhelper2e5826562e582656": {},
-        "familyhelper7d2606b0": {
-          "userPoolId": "us-east-1_lQ5l5ZT3U",
-          "userPoolName": "amplify-pool",
-          "webClientId": "1ms0iel4dq7rs5k8hd9l8qfmk",
-          "nativeClientId": "7e17gu95e9u4gijui5chtnrpts"
-        }
-      }
+      "DeploymentBucketName": "amplify-familyhelper-dev-145537-deployment",
+      "UnauthRoleName": "amplify-familyhelper-dev-145537-unauthRole",
+      "StackName": "amplify-familyhelper-dev-145537",
+      "StackId": "arn:aws:cloudformation:us-east-1:784225982183:stack/amplify-familyhelper-dev-145537/ce345ac0-4283-11ed-a63d-0a7a8ee56b8d",
+      "AmplifyAppId": "d2k5e4n7jkp029"
     }
   }
 }

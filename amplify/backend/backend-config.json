@@ -1,6 +1,6 @@
 {
   "auth": {
-    "familyhelper7d2606b0": {
+    "familyhelper": {
       "service": "Cognito",
       "serviceType": "imported",
       "providerPlugin": "awscloudformation",
